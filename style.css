@@ -10,6 +10,7 @@ img
 { height: 300px;
 width: 300px;
 padding:20px;
+margin: auto;
 border: blue;
 }
 
@@ -21,13 +22,7 @@ p
 
 
 .footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: red;
-    color: white;
-    text-align: center;
+    background-color: yellow;
 
 }
 .cart
@@ -35,7 +30,20 @@ p
 
 
 }
+.containers {
+    background-color: yellow;
+    margin: auto;
+}
+.container-fluid {
+background-color: yellow;
+}
 
+.containerone { background-color: light yellow ;
+
+
+}
+
+}
 
 
 
