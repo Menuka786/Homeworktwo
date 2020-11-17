@@ -1,16 +1,24 @@
+
+
+
+
 h2
  {
         color: blue;
         text-align: center;
         font-size: 30;
       }
-      h3 {
+      
+      h3 
+      {
 color: blue;
+Padding: 25px
       }
 
 
 img
-{ height: 250px;
+{ 
+  height: 250px;
 width: 250px;
 margin: auto;
 border: blue;
@@ -18,50 +26,58 @@ border: blue;
 
 p
 {padding: 5px 30px;
-   
+ 
+  
 
 }
-.navbar{
+.navbar
+{
     display: flex;
 }
-.links{
+.links
+{
     display: flex;
     padding:0;
 }
-footer {
+
+footer
+ {
     background-color: yellow;
     position: fixed;
     bottom: 0;
     width: 100%;
 }
 .cart
-{padding: 30px;
+{
+  padding: 30px;
 
 
 }
-.containers {
+.containers 
+{
     background-color: yellow;
     margin: auto;
 }
-.container-fluid {
+.container-fluid 
+{
 background-color: yellow;
 }
 
 
 
-.containerone { background-color: light yellow ;
+.containerone 
+{ background-color: light yellow ;
 
 
 }
-//*
 .fa {
-    padding: 20px;
+    padding: 30px;
     font-size: 30px;
     width: 30px;
-    text-align: center;
+    text-align: right;
     text-decoration: none;
-    margin: 5px 2px;
-    border-radius: 50%;
+    margin: 10px 10px;
+    border-radius: 100%;
   }
   
   .fa:hover {
@@ -78,19 +94,18 @@ background-color: yellow;
     color: white;
   }
   
-  .fa-google {
-    background: #dd4b39;
-    color: white;
-  }
   
   .fa-linkedin {
     background: #007bb5;
     color: white;
   }
-*//
+  .containertwo
+  {background-color: white;
+
+  }
 
 
-<style>
+//*<style>
 .fa {
   padding: 50px;
   font-size: 50px;
@@ -126,7 +141,7 @@ background-color: yellow;
     color: White;
     size: 10ch;
     margin: 10px;
-    
+    *//
 }
 
 
