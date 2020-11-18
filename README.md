@@ -1,12 +1,10 @@
 # Introudction
 
-# This is Homwork of Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+# This is Homework of Unit 02 CSS and Bootstrap: Responsive Portfolio
 
-I made a Portoflio page with Dummy text. It is responsive to large, medium scree and mobile. I have added following 
- render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
+I made a Portoflio page with Dummy text. It is responsive to large, medium scree and mobile. 
 
 ## I made sure following requirments are fullfilled
-
 
 
 * Functional, deployed application
@@ -27,4 +25,3 @@ I made a Portoflio page with Dummy text. It is responsive to large, medium scree
 
 * Used Bootstrap components and grid system.
 
-Scrren shots 
